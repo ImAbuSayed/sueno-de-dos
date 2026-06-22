@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sueno-de-dos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Sueño de dos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sueno-de-dos/) |
+| **Get License** | [Obtain a Music License for Sueño de dos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sueno-de-dos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa mirada tuya me tiene en un viaje espacial
+> Un piquete tan caro, una vibra sobrenatural
+> Baby, pégate un poco, rompe la pared
+> Que esta noche es nuestra y yo tengo la sed
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
