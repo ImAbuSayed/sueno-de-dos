@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sueño de dos
+
+This log tracks the cryptographic history and versioning for the song **Sueño de dos** (sueno-de-dos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T22:01:49.622685 | `v1` | `7ee2a8b7b7df0b077ce1ead99d58cef9ebef6c71c61d3a962a6dacd4015690ef` | `9bb7522305e8347c500f2888bf9e85656cd8b29b36bca19c02b605cd502c93a9` | `2026-06-22_sueno-de-dos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
